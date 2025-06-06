@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\GuessTheNumber-20250604T144608Z-1-001\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe.config
+C:\Users\admin\Desktop\GuessTheNumber-20250604T144608Z-1-001\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe
+C:\Users\admin\Desktop\GuessTheNumber-20250604T144608Z-1-001\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.pdb
+C:\Users\admin\Desktop\GuessTheNumber-20250604T144608Z-1-001\GuessTheNumber\GuessTheNumber\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\GuessTheNumber-20250604T144608Z-1-001\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\GuessTheNumber-20250604T144608Z-1-001\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.MainForm.resources
+C:\Users\admin\Desktop\GuessTheNumber-20250604T144608Z-1-001\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.Properties.Resources.resources
+C:\Users\admin\Desktop\GuessTheNumber-20250604T144608Z-1-001\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.ResultForm.resources
+C:\Users\admin\Desktop\GuessTheNumber-20250604T144608Z-1-001\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\GuessTheNumber-20250604T144608Z-1-001\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GuessTheNumber-20250604T144608Z-1-001\GuessTheNumber\GuessTheNumber\obj\Debug\GuessThe.333C5854.Up2Date
+C:\Users\admin\Desktop\GuessTheNumber-20250604T144608Z-1-001\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.exe
+C:\Users\admin\Desktop\GuessTheNumber-20250604T144608Z-1-001\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.pdb
+C:\Users\admin\Desktop\GuessTheNumber-20250604T144608Z-1-001\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.LoginForm.resources
